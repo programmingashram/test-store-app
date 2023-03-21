@@ -1,0 +1,6 @@
+.product-image img {
+  width: 80%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  height: 342px;
+}/*# sourceMappingURL=product-details.component.css.map */
