@@ -8,3 +8,11 @@ td {
   width: 16% !important;
   float: left;
 }
+
+
+@media(max-width: 767px){
+  td {
+    width: 50% !important;
+    float: left;
+  }
+}
