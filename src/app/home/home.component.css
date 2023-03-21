@@ -1,5 +1,5 @@
 .img-banner {
-  height: 180px;
+  height: 310px;
   width: 100%;
   -o-object-fit: cover;
      object-fit: cover;
@@ -24,6 +24,16 @@
   width: 100%;
   -o-object-fit: cover;
      object-fit: cover;
+}
+
+.pr-img img {
+  width: 200px;
+  margin-bottom: 10px;
+}
+
+td {
+  width: 25%;
+  float: left;
 }
 
 @media (max-width: 767px) {

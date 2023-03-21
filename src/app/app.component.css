@@ -36,15 +36,18 @@
 .mat-toolbar.mat-primary {
   background: white;
   color: black;
+  position: sticky;
+  top: 0;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
 }
 
 .mat-drawer {
-  background-color: rgba(92, 92, 255, 0.6980392157);
+  background-color: white;
   color: white;
 }
 
 .mat-list-item {
-  color: white;
+  color: black;
 }
 
 footer {
